@@ -24,7 +24,7 @@ The main bounded context, the one driving your business.
 
 ## Ubiquitous language
 
-Each component of the domain is defined within its bounded context. Definitions do not cross boundaries. Everyone speaks the same language inside a bounded context.
+Each component of the domain has a definition within its bounded context. Definitions do not cross boundaries. Everyone speaks the same language inside a bounded context.
 
 ## Entity
 
